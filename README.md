@@ -81,5 +81,4 @@ The car renter wants to finalize these bookings and closes the session:
   * (b) The session confirms the quote at car rental company B, but an error occurs: no car of
 the required car type is available any more.
   * (c) The session cancels the reservation at car rental company A.
-
 4. B The reservation failed, the car renter is notified of this failure.
