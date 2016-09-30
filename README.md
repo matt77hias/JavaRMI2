@@ -1,6 +1,10 @@
 # JavaRMI2
 Course Distributed Systems: Java RMI 2
 
+Team:
+* [Matthias Moulin](https://github.com/matt77hias) (Computer Science)
+* [Ruben Pieters](https://github.com/rubenpieters) (Computer Science)
+
 # Design
 ## Remotely accessible classes
 This section describes which classes are declared remotely, or stated more formally, the classes that implement the interface (`java.rmi.remote`). Instances of remotely accessible classes are never returned by value, but always by remote reference. This means that accessing and modifying a remote instance does not result in an inconsistent clone of the remote instance. The following interfaces (and as result all the implementing classes) in our project(s) extend the `java.rmi.remote` interface:
