@@ -49,17 +49,17 @@ All remotely and concurrently accessible mutator-methods of the `NamingService` 
 
 ##UML Class Diagram
 
-<p align="center"><img src="https://github.com/matt77hias/JavaRMI2/blob/master/res/UML Class Diagram.png" ></p>
+<p align="center"><img src="https://github.com/matt77hias/JavaRMI2/blob/master/res/UML Class Diagram.jpg" ></p>
 
 UML Class Diagram of all the important classes of the project(s). The `Quote`, `Reservation`, `CarType`, `Car`, `ReservationConstraints`, `ReservationException` classes are not represented, because they are trivial. The classes that contain the main methods for each server are also not represented. The `AbstractClient` class and the methods of the extending `Client` class are not represented as well.
 
 ##UML Deployment Diagram
 
-<p align="center"><img src="https://github.com/matt77hias/JavaRMI2/blob/master/res/UML Deployment Diagram.png" ></p>
+<p align="center"><img src="https://github.com/matt77hias/JavaRMI2/blob/master/res/UML%20Deployment Diagram.jpg" ></p>
 
 ##UML Sequence Diagram
 
-<p align="center"><img src="https://github.com/matt77hias/JavaRMI2/blob/master/res/UML Sequence Diagram.png" ></p>
+<p align="center"><img src="https://github.com/matt77hias/JavaRMI2/blob/master/res/UML Sequence Diagram.jpg" ></p>
 
 ###Scenarios
 1. The car renter starts a new session.
