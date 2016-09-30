@@ -64,21 +64,22 @@ UML Class Diagram of all the important classes of the project(s). The `Quote`, `
 ###Scenarios
 1. The car renter starts a new session.
 2. The car renter wants to reserve cars at two car rental companies: A and B:
-⋅⋅*. (a) The car renter checks the availability of a car type at car rental company A and notices
+  *  (a) The car renter checks the availability of a car type at car rental company A and notices
 that there is a car available.
-⋅⋅*. (b) The car renter creates a quote at car rental company A.
-⋅⋅*. (c) The car renter checks the availability of a car type at car rental company B and notices
+  *  (b) The car renter creates a quote at car rental company A.
+  *  (c) The car renter checks the availability of a car type at car rental company B and notices
 that there is a car available.
-⋅⋅4. The car renter creates a quote at car rental company B.
+  *  The car renter creates a quote at car rental company B.
 3A. Alternative A: reservation succeeds
 The car renter wants to confirm these quotes and closes the session:
-⋅⋅*. (a) The session confirms the quote at car rental company A.
-⋅⋅*.(b) The session confirms the quote at car rental company B.
+  *  (a) The session confirms the quote at car rental company A.
+  * (b) The session confirms the quote at car rental company B.
 4. A The reservation succeeded.
 3. B Alternative B: reservation fails
 The car renter wants to finalize these bookings and closes the session:
-⋅⋅*.(a) The session confirms the quote at car rental company A.
-⋅⋅*.(b) The session confirms the quote at car rental company B, but an error occurs: no car of
+  * (a) The session confirms the quote at car rental company A.
+  * (b) The session confirms the quote at car rental company B, but an error occurs: no car of
 the required car type is available any more.
-⋅⋅*.(c) The session cancels the reservation at car rental company A.
+  * (c) The session cancels the reservation at car rental company A.
+
 4. B The reservation failed, the car renter is notified of this failure.
