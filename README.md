@@ -9,6 +9,9 @@ Course Distributed Systems: Java RMI 2
 
 **Score**: Maximum Score
 
+## About
+Car rental application in a distributed rental agency system that allows to plan trips (i.e. make reservations at several rental companies). The system allow multiple users to book concurrently in a safe way.
+
 ## Design
 ### Remotely accessible classes
 This section describes which classes are declared remotely, or stated more formally, the classes that implement the interface (`java.rmi.remote`). Instances of remotely accessible classes are never returned by value, but always by remote reference. This means that accessing and modifying a remote instance does not result in an inconsistent clone of the remote instance. The following interfaces (and as result all the implementing classes) in our project(s) extend the `java.rmi.remote` interface:
