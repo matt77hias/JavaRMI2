@@ -68,7 +68,7 @@ UML Class Diagram of all the important classes of the project(s). The `Quote`, `
 
 <p align="center"><img src="res/UML%20Deployment Diagram.jpg" ></p>
 
-##UML Sequence Diagram
+## UML Sequence Diagram
 
 <p align="center"><img src="res/UML Sequence Diagram.jpg" ></p>
 
