@@ -15,7 +15,7 @@ Course Distributed Systems: Java RMI 2
 **Score**: Maximum Score
 
 ## About
-Car rental application in a distributed rental agency system that allows to plan trips (i.e. make reservations at several rental companies). The system allow multiple users to book concurrently in a safe way using Java RMI. (see full [car rental project](https://github.com/matt77hias/meta-carrental))
+Car rental application in a distributed rental agency system that allows to plan trips (i.e. make reservations at several rental companies). The system allow multiple users to book concurrently in a safe way using Java RMI. (See full [car rental project](https://github.com/matt77hias/meta-carrental))
 
 ## Design
 ### Remotely accessible classes
